@@ -1,2 +1,2 @@
 optConfig:
-  optIn: true
+  optOutStrategy: true
